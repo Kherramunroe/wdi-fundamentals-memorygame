@@ -80,6 +80,14 @@ footer {
 	font-weight: 500;
 }
 
+button {
+background-color: black;
+border-radius: 12px;
+color: white;
+font-size: 15px;
+
+}
+
 .copyright {
 	font-family: 'Bitter', sans-serif;
 	float: left; 
